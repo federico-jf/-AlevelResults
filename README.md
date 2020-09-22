@@ -1,6 +1,7 @@
 # The #AlevelResults Case: Visualizing Social Networks and Text Mining on Twitter Data
 
 **Context of the research questions: The #AlevelResults case**
+
 Every year in the United Kingdom, “Level A” exams are taken by young people to determine which university they can aspire to. However, this year such tests were suspended due to the COVID-19 pandemic and the school lockdowns. Instead, high school teachers were asked to give a predicted grade for their pupils and then rank them in order within their class. Posteriorly, an algorithm was expected to only adjust and standardize results at the national level.
 With the purpose of calculating the final grades, the algorithm of the Office of Qualifications and Examinations Regulation (named "Ofqual") used the historical performance of schools and the ranking of students within their own school. 
 The result was that 37% of estimated grades were lowered and 5.3% were raised by Ofqual's algorithm in comparison with teachers' predictions. The unexpected effect was that the algorithm ended up benefitting private schools over public schools. This meant that results favored those students who were enrolled in better schools even if their grades were worse, compared to those in schools with historically worse performance. As a result, in some cases, bright pupils in poorly performing schools saw their grades lowered because last year’s cohort of pupils did not do well in their exams.
@@ -12,6 +13,7 @@ Seen in perspective, the "#AlevelResults" case is one of the first times that pu
 **Research Questions**
 The general objective is to explore data from Twitter with the hashtag #AlevelResults in order to produce visualizations about the social network and about the content of the published tweets.
 Specifically, the main questions that will be addressed are:
+
 • How has the reaction around #AlevelResults on Twitter developed in time?
 • From which geographic locations did users participate?
 • What is the network or sub-community that most participates in the discussion (tweets with responses and interactions)?
@@ -19,8 +21,10 @@ Specifically, the main questions that will be addressed are:
 • What feelings are associated with the texts published in the tweets?
 
 **Data**
+
 78,839 tweets have been downloaded from Twitter from 8/14/2020 to 9/2/2020 (when the last tweet about the topic was recorder) using as a criterion the hashtag #AlevelResults. This hashtag was trending topic when the discussion exploded on past 14th of August. The database can be explored in the GitHub repository created for this visualization project: https://github.com/federico-jf/a_level_results_visualization_project
 The variables that will be worked with are the following:
+
 •	Id_str
 •	From_user
 •	Text
