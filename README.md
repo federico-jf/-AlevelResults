@@ -1,11 +1,16 @@
 # The #AlevelResults Case: Visualizing Social Networks and Text Mining on Twitter Data
 
-**University of Texas at Dallas
-EPPS6356 Data Visualization
-Professor: Dr. Karl Ho
-Data Visualization Project Proposal
+**University of Texas at Dallas**
+
+**EPPS6356 Data Visualization**
+
+**Professor: Dr. Karl Ho**
+
+**Data Visualization Project Proposal**
+
 Student: Federico Ferrero
-Fall 2020**
+
+Fall 2020
 
 
 **Context of the research questions: The #AlevelResults case**
