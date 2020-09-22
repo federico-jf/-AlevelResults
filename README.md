@@ -11,6 +11,7 @@ As corollary, in the face of media pressure, the United Kingdom government ended
 Seen in perspective, the "#AlevelResults" case is one of the first times that public opinion has spoken out so strongly about results considered unfair coming from evaluations driven by algorithms in educational settings. Undoubtedly, the analysis of such data can be a great opportunity to explore the reaction and the arguments offered by students and teachers. To everyone's concern, it is expected that situations like these will become more and more frequent in educational organizations.
 
 **Research Questions**
+
 The general objective is to explore data from Twitter with the hashtag #AlevelResults in order to produce visualizations about the social network and about the content of the published tweets.
 Specifically, the main questions that will be addressed are:
 
@@ -40,11 +41,13 @@ The variables that will be worked with are the following:
 •	User_location
 
 **Visualization method(s)**
+
 The visualization techniques to use include general charts to initially explore data. Then, Social Network Analysis will be implemented to visualize the network of interactions (influential users will be highlighted in size, among other graphics marks). Finally, if time is available, Text Mining techniques will be applied (specifically Sentiment Analysis) over Twitter content with hashtag #AlevelResults.
 While there is some experience with Software Network Analysis using Gephi application, the challenge of this proposal will be the use of R to construct and analyze the social networks.
 Therefore, R will be used with RStudio.
 
 **Bibliography**
+
 Abdelsadek, Y., Chelghoum, K., Herrmann, F., Kacem, I., & Otjacques, B. (2018). Community extraction and visualization in social networks applied to Twitter. Information Sciences, 424, 204-223.
 Bruns, A. (2012). How Long is a Tweet? Mapping Dynamic Conversation Networks on Twitter Using Gawk and Gephi. Information, Communication & Society, 15:9, 1323-1351, DOI: 10.1080/1369118X.2011.635214
 Ediger, D. et al., (2010). Massive Social Network Analysis: Mining Twitter for Social Good. 39th International Conference on Parallel Processing, San Diego, CA, 583-593, DOI: 10.1109/ICPP.2010.66.
@@ -52,6 +55,7 @@ Kolaczyk, E. D., & Csárdi, G. (2014). Statistical Analysis of Network Data wit
 Silge, J., & Robinson, D. (2017). Text mining with R: A tidy approach. New York: O'Reilly Media.
 
 **Journalistic References about "A level exams" Case**
+
 Alex Hern (14 August 2020). Do the maths: why England’s A-level grading system is unfair. The Guardian. Retrieved from: https://amp.theguardian.com/education/2020/aug/14/do-the-maths-why-englands-a-level-grading-system-is-unfair?__twitter_impression=true
 Amit Katwala. (15 August 2020). An Algorithm Determined UK Students' Grades. Chaos Ensued. Wired. https://www.wired.com/story/an-algorithm-determined-uk-students-grades-chaos-ensued/
 Dan Davies (15 August 2020). This year's A-level results are a fiasco – but the system was already broken. The Guardia. Retrieved from: https://www.theguardian.com/commentisfree/2020/aug/15/a-level-results-system-ofqual-england-exam-marking
