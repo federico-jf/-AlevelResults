@@ -1,5 +1,13 @@
 # The #AlevelResults Case: Visualizing Social Networks and Text Mining on Twitter Data
 
+**University of Texas at Dallas
+EPPS6356 Data Visualization
+Professor: Dr. Karl Ho
+Data Visualization Project Proposal
+Student: Federico Ferrero
+Fall 2020**
+
+
 **Context of the research questions: The #AlevelResults case**
 
 Every year in the United Kingdom, “Level A” exams are taken by young people to determine which university they can aspire to. However, this year such tests were suspended due to the COVID-19 pandemic and the school lockdowns. Instead, high school teachers were asked to give a predicted grade for their pupils and then rank them in order within their class. Posteriorly, an algorithm was expected to only adjust and standardize results at the national level.
