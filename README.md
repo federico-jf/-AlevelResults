@@ -41,7 +41,7 @@ Specifically, the main questions that will be addressed are:
 
 **Data**
 
-78,839 tweets have been downloaded from Twitter from 8/14/2020 to 9/2/2020 (when the last tweet about the topic was recorder) using as a criterion the hashtag #AlevelResults. This hashtag was trending topic when the discussion exploded on past 14th of August. The database can be explored in the GitHub repository created for this visualization project: https://github.com/federico-jf/a_level_results_visualization_project
+78,839 tweets have been downloaded from Twitter from 8/14/2020 to 9/2/2020 (when the last tweet about the topic was recorded) using as a criterion the hashtag #AlevelResults. This hashtag was trending topic when the discussion exploded on past 14th of August. The database can be explored in the GitHub repository created for this visualization project: https://github.com/federico-jf/a_level_results_visualization_project
 The variables that will be worked with are the following:
 
 •	Id_str
